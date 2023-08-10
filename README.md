@@ -11,7 +11,6 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Prerequisites
 
@@ -38,7 +37,7 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
     cd /frontend
     npm install
 
-## Setting Up the Backend
+## Setting Up the Database
 
 Configure the backend environment:
 
@@ -71,3 +70,15 @@ The frontend development server will be running at http://localhost:3000.
 
 3. Open your web browser and go to http://localhost:3000 to access the Task Management Application.
 
+## Usage
+
+- Use the user interface to add, edit, and delete tasks.
+- Mark tasks as completed by toggling the checkbox.
+- Sort tasks in ascending or descending order by clicking the "Sort" button.
+- Show/hide completed tasks using the "Show Completed" button.
+- Filter tasks by due date using the date picker.
+
+## Technologies Used
+
+- Frontend: Next.js, React, Redux Toolkit, RTK Query, Yup, Formik, Tailwind CSS
+- Backend: Node.js, Express, MongoDB

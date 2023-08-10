@@ -36,7 +36,6 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
 
     or for SSH
 
-    ````bash
     git clone git@github.com:NazimNasser/mern-task-app-frontend.git
     cd mern-task-app
 

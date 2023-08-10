@@ -27,10 +27,14 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
    cd mern-task-app
 
 1. Install backend dependencies:
+
+    ```bash
     cd backend
     npm install
 
 2. Install frontend dependencies:
+    
+    ```bash
     cd /frontend
     npm install
 
@@ -41,7 +45,9 @@ Configure the backend environment:
 1. Create a .env file in the backend directory.
 
 2. Add your MongoDB connection URI to the .env file:
-    MONGO_URI='mongodb+srv://NazimNasser:portfolio@cluster0.v2ooh.mongodb.net/taskManagement?retryWrites=true&w=majority'
+
+    ```bash
+    MONGODB_URI='mongodb+srv://NazimNasser:portfolio@cluster0.v2ooh.mongodb.net/taskManagement?retryWrites=true&w=majority'
 
 ## Running the Application
 
@@ -49,16 +55,16 @@ Start the backend and frontend servers:
 
 1. Start the backend server:
 
+    ```bash
     cd backend
-
     npm start
 
     The backend server will be running at http://localhost:5000.
 
 2. In a separate terminal, start the frontend development server:
 
+    ```bash
     cd frontend
-
     npm run dev
 
 The frontend development server will be running at http://localhost:3000.

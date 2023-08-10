@@ -19,19 +19,29 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository for [backend](https://github.com/NazimNasser/mern-task-app):
 
-   ```bash
-   git clone https://github.com/your-username/mern-task-app.git
-   cd mern-task-app
+    ```bash
+    git clone https://github.com/NazimNasser/mern-task-app.git
+    or for SSH
+    git clone git@github.com:NazimNasser/mern-task-app.git
+    cd mern-task-app
 
-1. Install backend dependencies:
+2. Clone the repository for [frontend](https://github.com/NazimNasser/mern-task-app-frontend):
+
+    ```bash
+    git clone https://github.com/NazimNasser/mern-task-app-frontend.git
+    or for SSH
+    git clone git@github.com:NazimNasser/mern-task-app-frontend.git
+    cd mern-task-app
+
+3. Install backend dependencies:
 
     ```bash
     cd backend
     npm install
 
-2. Install frontend dependencies:
+4. Install frontend dependencies:
     
     ```bash
     cd /frontend

@@ -59,7 +59,7 @@ Start the backend and frontend servers:
     cd backend
     npm start
 
-    The backend server will be running at http://localhost:5000.
+The backend server will be running at http://localhost:5000.
 
 2. In a separate terminal, start the frontend development server:
 

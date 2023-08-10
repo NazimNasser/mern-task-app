@@ -23,7 +23,10 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
 
     ```bash
     git clone https://github.com/NazimNasser/mern-task-app.git
-    or for SSH
+
+or for SSH:
+
+    ```bash
     git clone git@github.com:NazimNasser/mern-task-app.git
     cd mern-task-app
 
@@ -31,7 +34,10 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
 
     ```bash
     git clone https://github.com/NazimNasser/mern-task-app-frontend.git
-    or for SSH
+
+or for SSH
+
+    ```bash
     git clone git@github.com:NazimNasser/mern-task-app-frontend.git
     cd mern-task-app
 
@@ -90,5 +96,5 @@ The frontend development server will be running at http://localhost:3000.
 
 ## Technologies Used
 
-- Frontend: Next.js, React, Redux Toolkit, RTK Query, Yup, Formik, Tailwind CSS
+- Frontend: Next.js, React, Redux Toolkit, Yup, Formik, Tailwind CSS
 - Backend: Node.js, Express, MongoDB

@@ -24,9 +24,8 @@ This is a Task Management Application developed using the MERN stack (MongoDB, E
     ```bash
     git clone https://github.com/NazimNasser/mern-task-app.git
 
-or for SSH:
+    or for SSH:
 
-    ```bash
     git clone git@github.com:NazimNasser/mern-task-app.git
     cd mern-task-app
 
@@ -35,9 +34,8 @@ or for SSH:
     ```bash
     git clone https://github.com/NazimNasser/mern-task-app-frontend.git
 
-or for SSH
+    or for SSH
 
-    ```bash
     git clone git@github.com:NazimNasser/mern-task-app-frontend.git
     cd mern-task-app
 
